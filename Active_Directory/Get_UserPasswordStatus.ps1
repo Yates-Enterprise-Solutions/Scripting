@@ -18,7 +18,7 @@
     (Prompts for username, then shows results)
 
 .NOTES
-    Author: Your Name
+    Author: Damian J. Yates
     Date:   2025-06-15
     Version: 1.1
 
